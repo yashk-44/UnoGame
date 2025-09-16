@@ -13,7 +13,7 @@ locally on one device.
    - time
 4. To start the game, simply run "UnoVis.py"
 
-<h2> How to play this game </h2>
+<h2> Starting the game </h2>
 The players start by pressing the "start" button when they are ready to set up
 the game. On the next screen the players can toggle the number of players, ranging from 2 to 10 players inclusive.
 Once the number of players have been decided, the "start" button must be pressed. 
@@ -22,6 +22,7 @@ Once the start button is pressed, the game begins. A screen is displayed, asking
 starting player, which is picked at random. Once the device is given to the first player and they are ready, they press
 anywhere in the window to see their playing hand.
 
+<h2> Screen layout </h2>
 Every player sees the following on their screen when playing: 
 * **Top-left**: the players and the number of cards they have. 
   * The leader is displayed in yellow, and the current player is displayed in bold text.
@@ -38,6 +39,9 @@ Every player sees the following on their screen when playing:
 * **Bottom**: The playing hand for that player.
   * The cards are sorted by colour then by value. Every player sees segments of up to 7 cards. If they want to see their remaining cards, they scroll up to see the next page, and scroll down to see the previous page. 
 
+<h2>Rules and steps on gameplay</h2>
+Refer to: https://www.unorules.com/
+
 <h2>Future updates ️🔮</h2>
-* Allow players to "stack" +2 and +4 cards
-* Create a timer for each player
+1. Allow players to "stack" +2 and +4 cards. 
+2. Create a timer for each player.
