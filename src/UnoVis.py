@@ -233,7 +233,7 @@ def select_color() -> Optional[str]:
         color_choose_text_2 = (pygame.font.SysFont("seqoeui", 45, False).
                                render("PRESS ANYWHERE ELSE TO CANCEL", True, WHITE))
         cct_rect_2 = color_choose_text_2.get_rect()
-        cct_rect_2.center = screen_width // 2, (screen_height // 4) + cct_rect_1.height
+        cct_rect_2.center = screen_width // 2, (screen_height // 4) + cct_rect_1.height5
         screen.blit(color_choose_text_2, color_choose_text_2.get_rect(center=cct_rect_2.center))
         # END OF INSTRUCTION TEXT RENDERING
 
