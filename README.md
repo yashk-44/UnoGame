@@ -41,4 +41,3 @@ Every player sees the following on their screen when playing:
 <h2>Future updates ️🔮</h2>
 * Allow players to "stack" +2 and +4 cards
 * Create a timer for each player
-
