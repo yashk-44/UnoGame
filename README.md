@@ -24,7 +24,7 @@ Once the number of players have been decided, the "start" button must be pressed
 
 Once the start button is pressed, the game begins. A screen is displayed, asking for the device to be passed to the
 starting player, which is picked at random. Once the device is given to the first player and they are ready, they press
-anywhere in the window to see their playing hand.
+anywhere in the window to see their playing hand. 
 
 <h2> Screen layout </h2>
 Every player sees the following on their screen when playing: 
@@ -56,11 +56,14 @@ Every player sees the following on their screen when playing:
   * The cards are sorted by colour then by value. Every player sees segments of up to 7 cards. If they want to see their remaining cards, they scroll up to see the next page, and scroll down to see the previous page. 
 
 <h2> Rules and steps on gameplay </h2>
-Refer to: https://www.unorules.com/
+Refer to https://www.unorules.com/ for rules.
+
+**Important note**: once a card has been placed, the current player sees the updated state of their playing hand for 1 second before being prompted to pass the device over to the next player.
 
 <h2>Future updates ️🔮</h2>
 
 1. Allow players to "stack" +2 and +4 cards.
 
 2. Create a timer for each player.
+
 
