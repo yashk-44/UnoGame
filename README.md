@@ -43,5 +43,6 @@ Every player sees the following on their screen when playing:
 Refer to: https://www.unorules.com/
 
 <h2>Future updates ️🔮</h2>
-1. Allow players to "stack" +2 and +4 cards. 
+1. Allow players to "stack" +2 and +4 cards.
+
 2. Create a timer for each player.
